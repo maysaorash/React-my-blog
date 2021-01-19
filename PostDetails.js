@@ -1,8 +1,5 @@
 import React from 'react';
 
-
-
-
 class PostDetails extends React.Component {
   constructor(props){
     super(props)
@@ -31,4 +28,4 @@ class PostDetails extends React.Component {
   }
 }
 
-export default PostDetails
+export default PostDetails; 
